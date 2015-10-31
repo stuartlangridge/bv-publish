@@ -1,0 +1,15 @@
+title: They've Got A Flamethrower
+headerimage: http://cdn.coresites.factorymedia.com/mpora_new/wp-content/uploads/2015/01/21767_1_other_video_games_fire_flamethrower.jpg
+categories: yes Linux, yes Open Source, yes Shows, yes Technology, no Design, no Development, yes Gaming, yes News, yes Politics, no Religion, no Reviews, no Social Media, no Space, no Ubuntu
+<p>Jeremy Garcia, Jono Bacon, Bryan Lunduke, and Stuart Langridge bring you Bad Voltage, in which Jeremy is unwell and yet battles on heroically, everyone is cynical about politicians and yet battle on heroically, and:</p>
+
+<ul>
+    <li>00:02:14 The rise of inexpensive open source computers: the <a href="http://nextthing.co/chip.html">PocketChip</a> and <a href="https://boards.openpandora.org/pyramain/main/">DragonBox Pyra</a> are examples of new cheap open source computing devices, and everyone knows about the Raspberry Pi. Are these things cool for people who aren't the Bad Voltage team? What good are they? Isn't it great that these exist?</li>
+    <li>00:12:22 "<a href="http://www.linuxjournal.com/content/vigilante-malware">Vigilante malware</a>" as a concept is in the news again; this time, there's a real example, <code>Linux.Wifatch</code>, a network worm which infects Linux-based routers and embedded devices and then... turns off insecure options and makes sure they're up to date with patches. It's malware, but on the side of good. Maybe this is the way forward? Question mark?</li>
+    <li>00:27:55 We've been asked about Owncloud quite a lot, and brought it up for discussion frequently: now we speak to project founder Frank Karlitschek about what Owncloud's up to now and why it might be a good idea</li>
+    <li>00:44:37 Why don't the open source community continually introduce laws saying things like "all router firmware must be open source" so the enemy has to spend resources and time battling these things, much like they keep introducing laws saying "everyone must use DOCX" and we have to battle them? Why not fight fire with fire?</li>
+</ul>
+
+[display_podcast]
+
+[forum_post_link]
